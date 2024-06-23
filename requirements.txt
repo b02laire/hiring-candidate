@@ -1,0 +1,6 @@
+transformers
+pillow
+torch
+requests
+pytest
+timm
